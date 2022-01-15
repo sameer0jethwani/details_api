@@ -2,7 +2,7 @@
 
 download this project from github-
 than go to the folder details_api-master(project folder)
-than open terminal
+than open terminal in that same folder
 please install these from terminal , (if required)-
 pip install fastapi ,uvicorn ,sqlalchemy
 than run command - uvicorn details_app:app --reload
